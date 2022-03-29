@@ -4,3 +4,8 @@ function payment() {
 function authentication(id) {
     return "billionair"
 }
+
+function controller() {
+
+    return bankController();
+}
